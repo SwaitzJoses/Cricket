@@ -1,0 +1,49 @@
+#main-title{
+    text-align: center;
+    font-weight: bold;
+    color:blue;
+
+}
+
+.score{
+    text-align: center;
+}
+
+.board2{
+    text-align: end;
+}
+
+table{
+    border: 1px solid black;
+}
+
+td{
+    width:60px;
+    height: 10px;
+    border: 1px solid black;
+    font-size: 10px;
+
+}
+
+td{
+    text-align: center;
+}
+
+.man{
+    text-align: center;
+}
+
+.win{
+    text-align: center;
+}
+
+
+.hit{
+    background-color: rgb(113, 163, 238);
+    color: honeydew;
+}
+
+#won{
+    color: blue;
+    font-weight: bold;
+}
